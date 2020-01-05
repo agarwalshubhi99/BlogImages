@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BLOG</string>
+    <string name="choose_file">Choose file</string>
+    <string name="enter_file_name">Enter file name</string>
+    <string name="upload">Upload</string>
+    <string name="show_uploads">Show Uploads</string>
+    <string name="name">Name</string>
+    <string name="todo2">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="Log_in">Enter App</string>
+    <string name="create_account">CREATE  ACCOUNT</string>
+</resources>
